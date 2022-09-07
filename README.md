@@ -39,7 +39,7 @@ git clone https://github.com/SlavPH/CoronaVirus && cd CoronaVirus && chmod +x co
 ```
 # Access Error
 **!**  If Api is not working in your country, you can run this tool with **TOR**                             
-**!**  Install **Proxychains** and config it!
+**!**  Install **Proxychains** and config it!                                         
 **!**  Then use this tool with proxychains:                            
 ```
 proxychains ./covid.py
