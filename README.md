@@ -1,6 +1,7 @@
 # CoronaVirus
 >Get coronavirus information of any country with X-Rapid api
 
+![COVID19](https://github.com/SlavPH/CoronaVirus/blob/main/covid.png)
 
 # What is this and how this works?                              
 ❖ COVID-19 is a completely **FREE** API that allows you to follow the progress of the coronavirus around the world.                          
