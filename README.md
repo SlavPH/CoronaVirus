@@ -45,8 +45,4 @@ git clone https://github.com/SlavPH/CoronaVirus && cd CoronaVirus && chmod +x co
 proxychains ./covid.py
 ```
 
-# Social Media
-❖ [Instagram](https://instagram.com/theslavph)                                                
-❖ [Telegram](https://telegram.me/theslavph)
-
 > Thanks 
